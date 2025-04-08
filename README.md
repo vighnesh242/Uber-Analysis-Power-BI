@@ -5,13 +5,13 @@ A Power BI project that visualizes and analyzes Uber trip data to uncover insigh
 This dashboard was developed to help stakeholders make informed decisions using interactive visuals and KPIs based on real-world Uber trip data. The current version includes a complete Overview Dashboard, with Time Analysis and Details Tabs planned as next phases.
 
 # Visual Highlights
-Trip Distance by Payment Type: Most trips (66%) are paid via Uber Pay, with Cash and Wallets being less common.
-Trip Type Analysis: Night trips (60%) outnumber day trips.
-Vehicle Type Analysis: UberX is the most used vehicle (38K bookings), while Uber Green leads in eco-conscious segments.
+- Trip Distance by Payment Type: Most trips (66%) are paid via Uber Pay, with Cash and Wallets being less common.
+- Trip Type Analysis: Night trips (60%) outnumber day trips.
+- Vehicle Type Analysis: UberX is the most used vehicle (38K bookings), while Uber Green leads in eco-conscious segments.
 Location Analysis:
-Most frequent pickup: Penn Station/Madison Sq West
-Most frequent drop-off: Upper East Side North
-Farthest trip: 144.1 miles
+- Most frequent pickup: Penn Station/Madison Sq West
+- Most frequent drop-off: Upper East Side North
+- Farthest trip: 144.1 miles
 
 # Dataset
 The dataset includes:
